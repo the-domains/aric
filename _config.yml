@@ -1,7 +1,7 @@
 name: Aric
 favicon: null
-layout_spectrum: 0.6381035547237843
-typography_spectrum: 0.5618477729149163
+layout_spectrum: 0.69018
+typography_spectrum: 0.76013
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#a0b9f1'
+    - '#5185c1'
+    - '#25466f'
+    - '#010506'
+    - '#dedbf5'
   brandStrength: 0.13574056164361537
-  lightness: 0.3189590573310852
-  saturation: 0.48517358442768455
-  rhythmicContrast: 0.3221447407267988
+  lightness: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
