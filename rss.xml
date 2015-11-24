@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Aric]]></title>
         <description><![CDATA[Aric]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aric/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 18:44:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 Nov 2015 18:45:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aric/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[4 reasons why we can and must fight terrorism and poverty through climate action]]></title>
+            <description><![CDATA[<article><h1>4 reasons why we can and must fight terrorism and poverty through climate action</h1><p>Soon after the Sept. 11, 2001, terrorist attacks in New York City, then-President George W. Bush offered the view that "we fight against poverty because hope is the answer to terror." Bush himself never followed through in advancing a serious global anti-poverty agenda.</p><img src="https://i0.wp.com/grist.files.wordpress.com/2015/11/woman-solar-india-c-flickr-dfid.jpg?fit=440%2C330"></article>]]></description>
+            <link>http://grist.org/climate-energy/4-reasons-why-we-can-and-must-fight-terrorism-and-poverty-through-climate-action/</link>
+            <guid isPermaLink="false">8cacd1a5-03a0-4566-9f42-642c66e112b6</guid>
+            <pubDate>Tue, 24 Nov 2015 18:44:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Good news: Big companies are using a record amount of clean energy]]></title>
             <description><![CDATA[<article><h1>Good news: Big companies are using a record amount of clean energy</h1><p>This story was originally published by Mother Jones and is reproduced here as part of the Climate Desk collaboration. On Nov. 30, world leaders will flock to Paris to hammer out an international agreement to slow global warming.</p><img src="https://i1.wp.com/grist.files.wordpress.com/2015/11/solar-panel-sunset.jpg?fit=440%2C330"></article>]]></description>
